@@ -1,1 +1,4 @@
 # foodPickerApp
+
+The purpose of this project is to make an app that finds all food places that meet user desires and filters in their general vacinity, and make an automatic choice of 1 restaurant out of the nearby list. The app should then suggest that restaurant to the user, or give the user the option for the app to pick again. The app can also just bring up a whole list of all the food places it found within the user's parameters. This app is useful because in the countless situations where a group is going out and nobody wants to make the choice of where to eat, the app will help eliminate the problem by making suggestions automatically. 
+My initial plan is to program this app in Flutter, on both my linux and macOS machines so that I can program in the environment I'm comfortable in but run it on an iPhone simulator. Because it is being built in Flutter, this app should have an accompanying website.
